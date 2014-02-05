@@ -1,7 +1,9 @@
 english-pronunciation-tips
 ==========================
 
-This repository is going to keep the notes I take while I give a thorough /ˈθʌrə/ understanding /ʌndəˈstandɪŋ/
+This repository is going to keep the notes I take while I give a thorough /ˈθʌrə/ understanding /ʌndəˈstandɪŋ/. 
+
+I also consider **Google Define Feature** as a very helpful tool for people whose mother language is not English. 
 
 ##Sources
 
